@@ -29,7 +29,6 @@ Then("Verifikasi login berhasil") do
 
   	  btn_close = find(:css, 'button.btn.btn-ahalf-circle').click
   end
-  	sleep 3
 end
 
 
