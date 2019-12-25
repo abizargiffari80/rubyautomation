@@ -1,7 +1,7 @@
-# rubyautomation
+# Rubyautomation
 belajar ruby automation
 
-===== RUBY ===
+===== RUBY =====
 1. Buat folder
 2. Masuk ke folder jalankan
 cucumber --init
